@@ -49,7 +49,7 @@ const [ r, o, y, g, b, , v ] = colors
 const [ , , , , , indg,  ] = colors
 
 // Objects
-const { name, color, song, job, partner } = muppet 
+const { name, color, song, job, partner } = muppet
 
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
 
